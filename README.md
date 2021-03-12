@@ -4,7 +4,7 @@
 
 Um sistema térmico são sistemas em que estão envolvidos 
 armazenamento e fluxo de calor por condução, convecção e 
-irradiação.
+radiação.
 
 Há sempre transferência de energia entra dois corpos que tem 
 temperaturas diferentes (fluxo de calor sempre de maior 
@@ -16,7 +16,7 @@ temperatura para o de menor temperatura).
 **Convecção:**
 - transferência de calor através de um fluido em movimento.
 
-**Irradiação:**
+**Radiação:**
 - transferência de calor através da troca de calor por radiação
 de duas superfícies.
 
