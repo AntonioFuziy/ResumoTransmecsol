@@ -55,6 +55,8 @@ Máquina de calor, recebe calor de uma fonte quente e fornece calor para uma fon
 Desodorante:
   Ao acionar a válvula, o gás se expande e a pressão do cilindro diminui levando a temperatura do cilindro a diminuir.
 
+**Essa parte acho que ta errado talvez**
+
 Aleta isolada termicamente **(Situação adiabática)**
 
 Temperaturas definida, sabe-se a temperatura da extremidade e da base **(Situação de temperatura fixa)**
