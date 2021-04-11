@@ -1,0 +1,8 @@
+Tarefa 1:
+
+Simplificacoes:
+- k constante;
+- tira-se a derivada no eixo k, logo fluxo no eixo x e y;
+- q ponto => zero;
+
+p*Cp*(dT/dt) = k*((ḍ²T/dx²)*(ḍ²T/dy²))
