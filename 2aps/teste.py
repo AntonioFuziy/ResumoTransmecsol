@@ -1,11 +1,7 @@
-import numpy as np
+i = 46
+soma = 0
+while i > 0:
+  soma += i
+  i-=1
 
-matrix = np.zeros((3,3))
-cont = 0
-
-for i in range(0,3):
-  for j in range(0,3):
-    cont+=1
-    matrix[i][j] = cont
-
-print(matrix)
+print(soma)
